@@ -8,10 +8,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        illusion:'#FFEBF0',
-        wepeep:'#F692AE',
-        remy:'#FDE2ED',
-        havelockblue:'#67A3DA',
+        illusion:'#FFF3F6',
+        wepeep:'#FFD3FC',
+        remy:'#FFD3E8',
+        havelockblue:'#FFABD3',
       },
     },
   },
